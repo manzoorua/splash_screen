@@ -1,0 +1,10 @@
+E:\splash_screen\splash_screen\bin\Debug\splash_screen.exe.config
+E:\splash_screen\splash_screen\bin\Debug\splash_screen.exe
+E:\splash_screen\splash_screen\bin\Debug\splash_screen.pdb
+E:\splash_screen\splash_screen\obj\Debug\splash_screen.csprojResolveAssemblyReference.cache
+E:\splash_screen\splash_screen\obj\Debug\splash_screen.Form1.resources
+E:\splash_screen\splash_screen\obj\Debug\splash_screen.Properties.Resources.resources
+E:\splash_screen\splash_screen\obj\Debug\splash_screen.csproj.GenerateResource.Cache
+E:\splash_screen\splash_screen\obj\Debug\splash_screen.exe
+E:\splash_screen\splash_screen\obj\Debug\splash_screen.pdb
+E:\splash_screen\splash_screen\obj\Debug\splash_screen.Form2.resources
